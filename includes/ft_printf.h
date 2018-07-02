@@ -18,7 +18,7 @@
 # include <stdarg.h>
 # include <wchar.h>
 # include <stdlib.h>
-# include "../../libft/libft/includes/libft.h"
+# include "../../libft/includes/libft.h"
 
 # define SIZE 60
 
